@@ -6,6 +6,8 @@ A modern, interactive **React-based Game Hub** showcasing multiple mini-games in
 
 ## 🚀 Screenshots:
 <img width="2160" height="1325" alt="Screenshot 2025-11-27 220557" src="https://github.com/user-attachments/assets/c14dc9ed-31f0-4af2-8f81-c326832bec01" />
+<img width="2160" height="1343" alt="Screenshot 2025-11-27 220619" src="https://github.com/user-attachments/assets/6080e7fd-f542-4d4a-9610-1d7ede60fa07" />
+<img width="2160" height="1350" alt="Screenshot 2025-11-27 220637" src="https://github.com/user-attachments/assets/a848efbb-893a-4cd1-9ba5-103d4166b91e" />
 
 
 ---
