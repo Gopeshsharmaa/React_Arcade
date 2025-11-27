@@ -4,12 +4,9 @@ A modern, interactive **React-based Game Hub** showcasing multiple mini-games in
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Screenshots:
+<img width="2160" height="1325" alt="Screenshot 2025-11-27 220557" src="https://github.com/user-attachments/assets/c14dc9ed-31f0-4af2-8f81-c326832bec01" />
 
-You can try the live version here:  
-[React Game Hub Live](https://your-live-link.netlify.app/)  
-
-*(Replace with your actual deployed link)*
 
 ---
 
