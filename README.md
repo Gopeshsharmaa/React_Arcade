@@ -31,24 +31,6 @@ You can try the live version here:
 
 ---
 
-## 📦 Project Structure
-
-react-game-hub/
-├── public/
-├── src/
-│ ├── images/
-│ │ ├── lucky1.png
-│ │ ├── coin1.png
-│ │ ├── bomb1.png
-│ │ ├── dice1.png
-│ │ └── slot1.png
-│ ├── Home.css
-│ ├── Home.jsx
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
-
 🛠 Built With
 
 React
